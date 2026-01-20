@@ -71,6 +71,13 @@ A lightweight **Streamlit demo app** is included to demonstrate:
 
 This showcases how the system could be deployed beyond notebooks.
 
+## How to Run the Demo App
+
+```bash
+pip install streamlit pypdf scikit-learn
+streamlit run app.py
+
+
 ---
 
 ## 🛠️ Technologies Used
