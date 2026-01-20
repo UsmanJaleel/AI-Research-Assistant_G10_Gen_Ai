@@ -1,7 +1,3 @@
-Perfect — here is a **clean, professional, GitHub-ready `README.md`** you can **copy-paste directly** into your repository.
-
----
-
 # AI Research Assistant – Cross-Document Knowledge Synthesis
 
 This project implements a **Generative AI–based research assistant** designed to help **students and researchers** explore, retrieve, and synthesize information from multiple academic PDF documents.
